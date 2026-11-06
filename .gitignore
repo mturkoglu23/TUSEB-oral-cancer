@@ -1,0 +1,18 @@
+# data, caches and outputs are never committed
+results/
+results_public/
+novel/results/
+public/results_public/
+cache/
+public/cache/
+novel_cache/
+our_data_clean/
+*.npy
+*.pt
+*.pth
+*.ckpt
+*.log
+*_pid.txt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
